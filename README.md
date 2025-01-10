@@ -36,6 +36,8 @@
 
 <h2>👨‍💻 Certifications</h2>
 
+- [ISO 9001:2015 QMS Lead Auditor - Bureau Veritas (CQI - IRCA Certified) (cert no. 24/IN/1026426/43615)](https://github.com/joshmadakor1/EncrypterPOC)
+
 - [Ransomware Proof of Concept (Encrypter)]((https://imgur.com/lVFXFnk))
 
 - <b>ISO 9001:2015 QMS Lead Auditor - Bureau Veritas (CQI - IRCA Certified) (cert no. 24/IN/1026426/43615).</b>
