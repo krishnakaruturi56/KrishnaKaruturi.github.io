@@ -41,7 +41,12 @@
 - [Certified Scrum Master (CSM) – Scrum Alliance (Cert no. 001687728)](https://github.com/krishnakaruturi56/Scrum-Master-Certification)
 - [Lean Six Sigma Greenbelt Certified (SSGBC) – Management and Strategy Institute (MSI) (license no. 26843325)](https://github.com/krishnakaruturi56/Lean-Six-Sigma-green-Belt-Certification)
 
+<h2>👨‍💻 Key Projects & Achievements</h2>
 
+- [Scrap Reduction & Process Optimization ](https://github.com/krishnakaruturi56/ISO-9001-2015-certification)
+- [Project Management Professional (PMP) - Project Management Institute (PMI) (Cert no. 3733478)](https://github.com/krishnakaruturi56/PMP-Certification)
+- [Certified Scrum Master (CSM) – Scrum Alliance (Cert no. 001687728)](https://github.com/krishnakaruturi56/Scrum-Master-Certification)
+- [Lean Six Sigma Greenbelt Certified (SSGBC) – Management and Strategy Institute (MSI) (license no. 26843325)](https://github.com/krishnakaruturi56/Lean-Six-Sigma-green-Belt-Certification)
 
 
 
