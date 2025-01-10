@@ -52,7 +52,7 @@
 
 <p align="center">
 <br/>
-<img src="https://imgur.com/o6PysRA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/o6PysRA.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 
 
