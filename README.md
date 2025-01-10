@@ -36,18 +36,11 @@
 
 <h2>👨‍💻 Certifications</h2>
 
-- [ISO 9001:2015 QMS Lead Auditor - Bureau Veritas (CQI - IRCA Certified) (cert no. 24/IN/1026426/43615)](https://github.com/joshmadakor1/EncrypterPOC)
+- [ISO 9001:2015 QMS Lead Auditor - Bureau Veritas (CQI - IRCA Certified) (cert no. 24/IN/1026426/43615)](https://github.com/krishnakaruturi56/ISO-9001-2015-certification)
+- [Project Management Professional (PMP) - Project Management Institute (PMI) (Cert no. 3733478)]
+- [Certified Scrum Master (CSM) – Scrum Alliance (Cert no. 001687728)](https://github.com/krishnakaruturi56/ISO-9001-2015-certification)
+- [Lean Six Sigma Greenbelt Certified (SSGBC) – Management and Strategy Institute (MSI) (license no. 26843325)](https://github.com/krishnakaruturi56/ISO-9001-2015-certification)
 
-- [Ransomware Proof of Concept (Encrypter)]((https://imgur.com/lVFXFnk))
-
-- <b>ISO 9001:2015 QMS Lead Auditor - Bureau Veritas (CQI - IRCA Certified) (cert no. 24/IN/1026426/43615).</b>
-
-- <b>Successfully led 15+ cross-functional teams and managed projects worth $1-4 million, delivering 100% on-time and within budget, achieving zero defects at customer launch.</b>
-- <b>Expertise in applying Six Sigma DMAIC, FMEA, CAPA, and Lean methodologies, driving 18% reduction in scrap rates and a 25% improvement in process efficiency.</b>
-- <b>Proven track record in supplier quality management, conducting supplier audits and improving supplier performance metrics that resulted in a 57% reduction in non-conformances from 14 to 6 annually.</b>
-- <b>Advanced proficiency in data analytics tools such as Minitab, Tableau, and SQL, enabling root cause analysis (RCA) that led to a 30% reduction in defects through targeted corrective actions.</b>
-- <b>Extensive experience with APQP, PPAP, and ISO 9001:2015 QMS, ensuring 100% compliance and delivering high-quality standards throughout the project lifecycle from prototypes</b>
-- <b>Expertise in managing complex projects involving cross-functional teams and stakeholders, ensuring alignment with organizational objectives and customer requirements.</b>
 
 
 
