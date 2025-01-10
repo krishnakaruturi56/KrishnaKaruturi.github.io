@@ -37,7 +37,7 @@
 <h2>👨‍💻 Certifications</h2>
 
 - [ISO 9001:2015 QMS Lead Auditor - Bureau Veritas (CQI - IRCA Certified) (cert no. 24/IN/1026426/43615)](https://github.com/krishnakaruturi56/ISO-9001-2015-certification)
-- [Project Management Professional (PMP) - Project Management Institute (PMI) (Cert no. 3733478)]
+- [Project Management Professional (PMP) - Project Management Institute (PMI) (Cert no. 3733478)](https://github.com/krishnakaruturi56/PMP-Certification)
 - [Certified Scrum Master (CSM) – Scrum Alliance (Cert no. 001687728)](https://github.com/krishnakaruturi56/ISO-9001-2015-certification)
 - [Lean Six Sigma Greenbelt Certified (SSGBC) – Management and Strategy Institute (MSI) (license no. 26843325)](https://github.com/krishnakaruturi56/ISO-9001-2015-certification)
 
