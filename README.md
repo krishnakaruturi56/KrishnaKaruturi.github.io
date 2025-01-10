@@ -50,6 +50,10 @@
    - <b>Enhanced operational efficiency with automated monitoring, improving production throughput and reducing reliance on manual intervention.</b>
    - <b>Optimized tool change scheduling using data-driven insights, leading to more efficient maintenance and reduced downtime.</b>
 
+<p align="center">
+<br/>
+<img src="https://imgur.com/o6PysRA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
 
