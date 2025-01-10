@@ -43,7 +43,18 @@
 
 <h2>👨‍💻 Key Projects & Achievements</h2>
 
-- [Scrap Reduction & Process Optimization ](https://github.com/krishnakaruturi56/ISO-9001-2015-certification)
+- [Integrattion of Tool Load Monitoring Software to improve detection during insert breakage]
+   - <b>Implemented WattPilote load monitoring system, reducing scrap costs by $79,000 over a period of 8 months through real-time insert damage detection.</b>
+   - <b>Eliminated manual inspections, saving $140,000 in labor costs by automating defect detection and lathe stoppage.</b>
+   - <b>25% increase in tool life, significantly reducing tool replacement costs and increasing overall tool utilization.</b>
+   - <b>Enhanced operational efficiency with automated monitoring, improving production throughput and reducing reliance on manual intervention.</b>
+   - <b>Optimized tool change scheduling using data-driven insights, leading to more efficient maintenance and reduced downtime.</b>
+
+
+
+
+
+
 - [Project Management Professional (PMP) - Project Management Institute (PMI) (Cert no. 3733478)](https://github.com/krishnakaruturi56/PMP-Certification)
 - [Certified Scrum Master (CSM) – Scrum Alliance (Cert no. 001687728)](https://github.com/krishnakaruturi56/Scrum-Master-Certification)
 - [Lean Six Sigma Greenbelt Certified (SSGBC) – Management and Strategy Institute (MSI) (license no. 26843325)](https://github.com/krishnakaruturi56/Lean-Six-Sigma-green-Belt-Certification)
