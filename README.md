@@ -49,10 +49,9 @@
    - <b>25% increase in tool life, significantly reducing tool replacement costs and increasing overall tool utilization.</b>
    - <b>Enhanced operational efficiency with automated monitoring, improving production throughput and reducing reliance on manual intervention.</b>
    - <b>Optimized tool change scheduling using data-driven insights, leading to more efficient maintenance and reduced downtime.</b>
-
 <p align="center">
 <br/>
-<img src="https://imgur.com/o6PysRA.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/o6PysRA.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 
 
 
