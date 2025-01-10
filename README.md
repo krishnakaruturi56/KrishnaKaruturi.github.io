@@ -43,7 +43,7 @@
 
 <h2>👨‍💻 Key Projects & Achievements</h2>
 
-- [Integrattion of Tool Load Monitoring Software to improve detection during insert breakage]
+- [Integrattion of Tool Load Monitoring Software to improve detection during insert breakage](https://github.com/krishnakaruturi56/Tool-Load-Monitor)
    - <b>Implemented WattPilote load monitoring system, reducing scrap costs by $79,000 over a period of 8 months through real-time insert damage detection.</b>
    - <b>Eliminated manual inspections, saving $140,000 in labor costs by automating defect detection and lathe stoppage.</b>
    - <b>25% increase in tool life, significantly reducing tool replacement costs and increasing overall tool utilization.</b>
