@@ -62,6 +62,15 @@
 
 
 
+- [Gauge inventory management using QR code system](https://github.com/krishnakaruturi56/Tool-Load-Monitor)
+   - <b>Spearheaded the development and implementation of a QR code-based inventory system at MTech Ltd. to track and manage gauges.</b>
+   - <b>The system aimed to replace a manual MS Excel-based approach, reducing human errors and inefficiencies.</b>
+   - <b>Reduced annual inventory errors by 30% through real-time tracking and automated updates.</b>
+   - <b>Enhanced traceability and accuracy by integrating a MySQL database with barcode generation.</b>
+   - <b>Improved efficiency in calibration and maintenance scheduling with automated notifications.</b>
+<p align="center"><br/>
+<img src="https://imgur.com/HCONqiK" height="55%" width="55%" alt="Disk Sanitization Steps"/>
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
