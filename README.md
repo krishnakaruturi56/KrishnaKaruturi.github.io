@@ -51,28 +51,17 @@
 <p align="center"><br/>
 <img src="https://imgur.com/o6PysRA.png" height="55%" width="55%" alt="Disk Sanitization Steps"/>
 
-- [Integrattion of Tool Load Monitoring Software to improve detection during insert breakage](https://github.com/krishnakaruturi56/Tool-Load-Monitor)
-   - <b>Implemented WattPilote load monitoring system, reducing scrap costs by $79,000 over a period of 8 months through real-time insert damage detection.</b>
-   - <b>Eliminated manual inspections, saving $140,000 in labor costs by automating defect detection and lathe stoppage.</b>
-   - <b>25% increase in tool life, significantly reducing tool replacement costs and increasing overall tool utilization.</b>
-   - <b>Enhanced operational efficiency with automated monitoring, improving production throughput and reducing reliance on manual intervention.</b>
+- [Gauge inventory management using QR code system](https://github.com/krishnakaruturi56/Tool-Load-Monitor)
+   - <b>Spearheaded the development and implementation of a QR code-based inventory system at MTech Ltd. to track and manage gauges.</b>
+   - <b>The system aimed to replace a manual MS Excel-based approach, reducing human errors and inefficiencies.</b>
+   - <b>Reduced annual inventory errors by 30% through real-time tracking and automated updates.</b>
+   - <b>Enhanced traceability and accuracy by integrating a MySQL database with barcode generation.</b>
+   - <b>Improved efficiency in calibration and maintenance scheduling with automated notifications.</b>
 <p align="center"><br/>
-<img src="https://imgur.com/o6PysRA.png" height="55%" width="55%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/HCONqiK" height="55%" width="55%" alt="Disk Sanitization Steps"/>
 
 
 
-
-- [Project Management Professional (PMP) - Project Management Institute (PMI) (Cert no. 3733478)](https://github.com/krishnakaruturi56/PMP-Certification)
-- [Certified Scrum Master (CSM) – Scrum Alliance (Cert no. 001687728)](https://github.com/krishnakaruturi56/Scrum-Master-Certification)
-- [Lean Six Sigma Greenbelt Certified (SSGBC) – Management and Strategy Institute (MSI) (license no. 26843325)](https://github.com/krishnakaruturi56/Lean-Six-Sigma-green-Belt-Certification)
-
-
-
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
 
