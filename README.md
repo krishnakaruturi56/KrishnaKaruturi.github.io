@@ -27,7 +27,7 @@
 <h2>👨‍💻 Key Projects & Achievements</h2>
 
 - [Integrattion of Tool Load Monitoring Software to improve detection during insert breakage](https://github.com/krishnakaruturi56/Tool-Load-Monitor)
-- - 8D Report: (https://github.com/krishnakaruturi56/Load-Monitor-8D-report)
+   - <b>8D Report: (https://github.com/krishnakaruturi56/Load-Monitor-8D-report)</b>
    - <b>Implemented WattPilote load monitoring system, reducing scrap costs by $79,000 over a period of 8 months through real-time insert damage detection.</b>
    - <b>Eliminated manual inspections, saving $140,000 in labor costs by automating defect detection and lathe stoppage.</b>
    - <b>25% increase in tool life, significantly reducing tool replacement costs and increasing overall tool utilization.</b>
@@ -45,7 +45,7 @@
 <img src="https://imgur.com/HCONqiK.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 
 - [Scrap reduction and process optimization using 12’ Bar Feeder](https://github.com/krishnakaruturi56/Scrap-Reduction-and-Process-Optimization)
-- 8D Report: (https://github.com/krishnakaruturi56/Open-body-tubes-8D-Report)
+   - <b>8D Report: (https://github.com/krishnakaruturi56/Open-body-tubes-8D-Report)</b>
    - <b>Implemented a 12' bar feeder system to replace the saw cutting operation, feeding raw material directly into the production process.</b>
    - <b>Optimized material utilization, achieving a 22% reduction in scrap and reducing associated material costs.</b>
    - <b>Eliminating unnecessary cutting and reducing defects resulted in a 14% increase in production throughput.</b>
@@ -54,7 +54,7 @@
 <img src="https://imgur.com/3KWQcvZ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 
 - [Implementation of Poka-Yoke Methodology](https://github.com/krishnakaruturi56/Poka-Yoke-Methodology)
-- 8D Report: (https://github.com/krishnakaruturi56/P1846D-Poka-Yoke-8D-report)
+   - <b>8D Report: (https://github.com/krishnakaruturi56/P1846D-Poka-Yoke-8D-report)</b>
    - <b>Poka-Yoke methodology was integrated into the machining workflow, utilizing a Renishaw TR-S2 Contact Probe for real-time tool monitoring at the end of each machining cycle.</b>
    - <b>The system triggers immediate alarms if tools are found to be damaged or worn beyond preset limits, halting production and preventing defective parts from proceeding.</b>
    - <b>This solution enhanced quality control, reduced production delays, enabled predictive maintenance, and streamlined the manufacturing process, ensuring consistent high-quality output.</b>
@@ -90,5 +90,12 @@
 - <b>Project Management (PMP, Agile, Scrum)</b>
 - <b>Data Analytics (ANOVA, Minitab, Tableau, SQL)</b>
 
-<h2>👨‍💻 Professional </h2>
+<h2>👨‍💻 Professional Experience</h2>
+
+- <b>Senior Quality Engineer / Project Manager - MTech Ltd, Scarborough, Ontario, Canada (Jun 2022 - Dec 2024)</b>
+   - 8D Report: (https://github.com/krishnakaruturi56/Load-Monitor-8D-report)
+   - <b>Implemented WattPilote load monitoring system, reducing scrap costs by $79,000 over a period of 8 months through real-time insert damage detection.</b>
+   - <b>Eliminated manual inspections, saving $140,000 in labor costs by automating defect detection and lathe stoppage.</b>
+   - <b>25% increase in tool life, significantly reducing tool replacement costs and increasing overall tool utilization.</b>
+   - <b>Enhanced operational efficiency with automated monitoring, improving production throughput and reducing reliance on manual intervention.</b>
 
