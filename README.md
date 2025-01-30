@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Contact Info</h2>
 
-- <b>+1 (519) 982 8643</b>
-- <b>Email: Chaitanya565656@gmail.com</b>
+- <b>+91 6262565615</b>
+- <b>Email: chaitanya.karuturi56@gmail.com</b>
 - <b>LinkedIn: www.linkedin.com/in/krishna-chaitanya-karuturi-5b3958a9</b>
 - <b>Website: KrishnaKaruturi.github.io</b>
 
@@ -44,7 +44,7 @@
 <h2>👨‍💻 Key Projects & Achievements</h2>
 
 - [Integrattion of Tool Load Monitoring Software to improve detection during insert breakage](https://github.com/krishnakaruturi56/Tool-Load-Monitor)
-- - 8D Report: ()
+- - 8D Report: (https://github.com/krishnakaruturi56/Load-Monitor-8D-report)
    - <b>Implemented WattPilote load monitoring system, reducing scrap costs by $79,000 over a period of 8 months through real-time insert damage detection.</b>
    - <b>Eliminated manual inspections, saving $140,000 in labor costs by automating defect detection and lathe stoppage.</b>
    - <b>25% increase in tool life, significantly reducing tool replacement costs and increasing overall tool utilization.</b>
@@ -71,37 +71,3 @@
 <img src="https://imgur.com/3KWQcvZ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
