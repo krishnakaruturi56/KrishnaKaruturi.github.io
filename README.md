@@ -51,25 +51,22 @@
 <p align="center"><br/>
 <img src="https://imgur.com/o6PysRA.png" height="55%" width="55%" alt="Disk Sanitization Steps"/>
 
-- [Gauge inventory management using QR code system](https://github.com/krishnakaruturi56/Tool-Load-Monitor)
+- [Gauge inventory management using QR code system](https://github.com/krishnakaruturi56/Gauge-Inventory-Management)
    - <b>Spearheaded the development and implementation of a QR code-based inventory system at MTech Ltd. to track and manage gauges.</b>
    - <b>The system aimed to replace a manual MS Excel-based approach, reducing human errors and inefficiencies.</b>
    - <b>Reduced annual inventory errors by 30% through real-time tracking and automated updates.</b>
    - <b>Enhanced traceability and accuracy by integrating a MySQL database with barcode generation.</b>
    - <b>Improved efficiency in calibration and maintenance scheduling with automated notifications.</b>
 <p align="center"><br/>
-<img src="https://imgur.com/HCONqiK" height="55%" width="55%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/HCONqiK.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 
-
-
-- [Gauge inventory management using QR code system](https://github.com/krishnakaruturi56/Tool-Load-Monitor)
-   - <b>Spearheaded the development and implementation of a QR code-based inventory system at MTech Ltd. to track and manage gauges.</b>
-   - <b>The system aimed to replace a manual MS Excel-based approach, reducing human errors and inefficiencies.</b>
-   - <b>Reduced annual inventory errors by 30% through real-time tracking and automated updates.</b>
-   - <b>Enhanced traceability and accuracy by integrating a MySQL database with barcode generation.</b>
-   - <b>Improved efficiency in calibration and maintenance scheduling with automated notifications.</b>
+- [Scrap reduction and process optimization using 12’ Bar Feeder](https://github.com/krishnakaruturi56/Tool-Load-Monitor)
+   - <b>Implemented a 12' bar feeder system to replace the saw cutting operation, feeding raw material directly into the production process.</b>
+   - <b>Optimized material utilization, achieving a 22% reduction in scrap and reducing associated material costs.</b>
+   - <b>Eliminating unnecessary cutting and reducing defects resulted in a 14% increase in production throughput.</b>
+   - <b>The new system preserved the Class A surface quality, reducing rework and improving cosmetic consistency across parts.</b>
 <p align="center"><br/>
-<img src="https://imgur.com/HCONqiK" height="55%" width="55%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/yrqXQxN.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 
 
 <h2>📺 Popular YouTube Videos</h2>
