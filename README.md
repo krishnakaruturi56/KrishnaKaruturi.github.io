@@ -70,7 +70,7 @@
 <p align="center"><br/>
 <img src="https://imgur.com/3KWQcvZ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 
-- [SImplementation of Poka-Yoke Methodology](https://github.com/krishnakaruturi56/Poka-Yoke-Methodology)
+- [Implementation of Poka-Yoke Methodology](https://github.com/krishnakaruturi56/Poka-Yoke-Methodology)
 - 8D Report: (https://github.com/krishnakaruturi56/P1846D-Poka-Yoke-8D-report)
    - <b>Poka-Yoke methodology was integrated into the machining workflow, utilizing a Renishaw TR-S2 Contact Probe for real-time tool monitoring at the end of each machining cycle.</b>
    - <b>The system triggers immediate alarms if tools are found to be damaged or worn beyond preset limits, halting production and preventing defective parts from proceeding.</b>
