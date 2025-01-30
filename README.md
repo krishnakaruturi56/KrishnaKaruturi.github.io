@@ -60,14 +60,14 @@
 <p align="center"><br/>
 <img src="https://imgur.com/HCONqiK.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 
-- [Scrap reduction and process optimization using 12’ Bar Feeder](https://github.com/krishnakaruturi56/Tool-Load-Monitor)
+- [Scrap reduction and process optimization using 12’ Bar Feeder](https://github.com/krishnakaruturi56/Scrap-Reduction-and-Process-Optimization)
 - 8D Report: (https://github.com/krishnakaruturi56/Open-body-tubes-8D-Report)
    - <b>Implemented a 12' bar feeder system to replace the saw cutting operation, feeding raw material directly into the production process.</b>
    - <b>Optimized material utilization, achieving a 22% reduction in scrap and reducing associated material costs.</b>
    - <b>Eliminating unnecessary cutting and reducing defects resulted in a 14% increase in production throughput.</b>
    - <b>The new system preserved the Class A surface quality, reducing rework and improving cosmetic consistency across parts.</b>
 <p align="center"><br/>
-<img src="https://imgur.com/yrqXQxN.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/3KWQcvZ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 
 
 <h2>📺 Popular YouTube Videos</h2>
