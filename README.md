@@ -75,8 +75,12 @@
 
 <h2>👨‍💻 Professional Recommendations</h2>
 <p align="center"><br/>
-<img src="https://imgur.com/0JVVrWL.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-
+<img src="https://imgur.com/ynR4t47.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p align="center"><br/>
+<img src="https://imgur.com/f6AyB03.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p align="center"><br/>
+<img src="https://imgur.com/o0quDGk.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+   
 <h2>👨‍💻 Key Skills & Areas of Expertise</h2>
 
 - <b>Six Sigma DMAIC & Lean Manufacturing</b>
